@@ -35,7 +35,7 @@
         <category label="javascript" term="javascript"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[时间循环-宏任务和微任务]]></title>
+        <title type="html"><![CDATA[事件循环-宏任务和微任务]]></title>
         <id>https://jonbenery.github.io/blog/eventLoop</id>
         <link href="https://jonbenery.github.io/blog/eventLoop"/>
         <updated>2023-02-01T00:00:00.000Z</updated>
